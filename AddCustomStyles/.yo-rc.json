@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "add-custom-styles",
+    "framework": "none",
+    "version": "1.0.0",
+    "libraryId": "7a850101-67b6-4341-9029-3fb3e8ae2b7e"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "add-custom-styles-client-side-solution",
+    "id": "7a850101-67b6-4341-9029-3fb3e8ae2b7e",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/add-custom-styles.sppkg"
+  }
+}
